@@ -1,4 +1,4 @@
-- 👋 Hi, I’m kranthi kumar
+- 👋 Hi, I’m Kranthi Kumar Kata
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning reactjs
 - 💞️ I’m looking to collaborate on open source projects
