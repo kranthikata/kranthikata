@@ -1,7 +1,7 @@
 - 👋 Hi, I’m kranthi kumar
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning reactjs
-- 💞️ I’m looking to collaborate on opensoucre project
+- 💞️ I’m looking to collaborate on opensource projects
 - 📫 Contact Me kranthikumarkata464@gmail.com
 - 😄 Pronouns: He
 
